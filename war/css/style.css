@@ -1,3 +1,55 @@
-.model {
-      width: 300px;
+body {
+	background-image:url(/img/background.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
 }
+
+label {
+	padding-left:20px;
+}
+
+.panel-default {
+	float:left;
+	width:350px;
+	height:220px;
+	margin-left:20px
+}
+
+.centered {
+	text-align:center;
+}
+
+.body-content {
+	float:left;
+}
+
+.body-content-prijs {
+	float:left;
+	margin-top:30px;
+	margin-left:10px
+}
+
+.modal-prijs {
+	float:right;
+	margin-right:60px;
+	margin-top:15%
+}
+
+.modal-tabel {
+	width:70%;
+	display:inline-block
+}
+
+.table-condensed {
+	text-align:left;
+}
+
+.header-logo {
+	margin-left:30px;
+}
+
+.button-offset {
+	margin-left: 20px
+}
+	
